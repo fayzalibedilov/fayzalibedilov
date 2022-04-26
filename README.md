@@ -1,5 +1,32 @@
-<h1 align="center">Hi 👋, it's Fayzali Bedilov</h1>
-<h3 align="center">QA Analyst/ QA Tester</h3>
+# Hello there 👋
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareTestEngineer:
+
+    def __init__(self):
+        self.name = "Fayzali Bedilov"
+        self.role = "Software Test Engineer"
+        self.language_spoken = ["tr_TR", "en_US", "ru_RU", "tj_TJ"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+      
+    def favorite_joke(self):
+        print("A developer to me:" 
+              "It puzzles me. The minute I hand the build out to you people, it does not work anymore")
+
+
+me = SoftwareTestEngineer()
+me.say_hi()
+me.favorite_joke()
+```
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fayzalibedilov" alt="fayzalibedilov" /></a> </p>
 
@@ -12,6 +39,7 @@
 <a href="https://www.hackerrank.com/fayzalibedilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fayzalibedilov" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fayzalibedilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fayzalibedilov" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
