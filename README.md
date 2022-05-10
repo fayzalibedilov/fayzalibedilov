@@ -49,11 +49,11 @@ me.favorite_joke()
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fayzalibedilov" alt="fayzalibedilov" width="980" height="400"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fayzalibedilov" alt="fayzalibedilov" width="900" height="400"/></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fayzalibedilov&show_icons=true&locale=en&layout=compact" alt="fayzalibedilov" width="350"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fayzalibedilov&show_icons=true&locale=en&layout=compact" alt="fayzalibedilov" width="350" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fayzalibedilov&show_icons=true&locale=en" alt="fayzalibedilov" /></p>
 
-<p><img src="https://github.com/fayzalibedilov/fayzalibedilov/blob/output/github-contribution-grid-snake.svg" width="1000">
+<p><img src="https://github.com/fayzalibedilov/fayzalibedilov/blob/output/github-contribution-grid-snake.svg" width="900">
 </p>
