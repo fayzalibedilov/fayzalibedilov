@@ -58,5 +58,4 @@ me.favorite_joke()
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fayzalibedilov" alt="fayzalibedilov" width="800"/></a> </p>
 
 
-<p><img src="https://github.com/fayzalibedilov/fayzalibedilov/blob/output/github-contribution-grid-snake.svg" width="800">
-</p>
+[comment]: <> (<p><img src="https://github.com/fayzalibedilov/fayzalibedilov/blob/output/github-contribution-grid-snake.svg" width="800"></p>)
