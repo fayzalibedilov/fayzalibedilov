@@ -12,7 +12,8 @@ class SoftwareTestEngineer:
 
     def __init__(self):
         self.name = "Fayzali Bedilov"
-        self.role = "Software Test Engineer"
+        self.role = "Automation QA Engineer"
+        self.languages = ["Python", "JS", "Go"]
         self.language_spoken = ["english_US", "turkish_TR", "russian_RU", "tajik_TJ"]
 
     def say_hi(self):
@@ -42,6 +43,11 @@ me.favorite_joke()
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50" width="50"/> </a>
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" height="50" width="50"/> </a>
+<a href="https://www.go.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" height="50" width="50"/> </a>
+<a href="https://www.playwright.dev" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" alt="playwright" height="50" width="50"/> </a> 
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" alt="playwright" height="50" width="50"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" height="50" width="50"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
